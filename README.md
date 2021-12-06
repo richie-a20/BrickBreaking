@@ -1,2 +1,2 @@
-# BrickBreaker
+# BrickBreaking
 we break bricks
